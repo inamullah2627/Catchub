@@ -11,19 +11,5 @@ Catchub is a modern and visually appealing web application design built using HT
     Technologies Used
 #### HTML5 – For structuring the web pages.
 #### CSS3 – For styling and responsiveness.
-## Project Setup
-To use the design, follow these steps:
-
-Clone the repository:
-sh
-Copy
-Edit
-git clone https://github.com/your-username/catchub.git
-cd catchub
-Open index.html in a browser to view the design.
- Screenshots
-(Add images or previews of the design here)
-
-
 
 # Created with passion by Inam Ullah
